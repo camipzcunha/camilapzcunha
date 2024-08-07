@@ -1,12 +1,13 @@
-<h1 align="center">Oi 👋, eu sou a Camila Pedroza</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Oi 👋, eu sou a a Camila Pedroza!</h1>
+<h3 align="center">Estudante de Engenharia de Software na FIAP.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=camipzcunha&label=Profile%20views&color=0e75b6&style=flat" alt="camipzcunha" /> </p>
+- 🌱 Atualmente,desenvolvendo minhas habilidades em **Java, Angular e C**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=camipzcunha" alt="camipzcunha" /></a> </p>
+- 📫 Me envie um e-mail em **camipzcunha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/camipzcunha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camipzcunha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
